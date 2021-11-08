@@ -1,0 +1,22 @@
+dim_employes
+mengambil id employes pada tabel employes untuk mengetahui id dari employes
+mengambil extention (ekstensi) pada tabel employes untuk mengetahui ekstensi pada employes
+mengambil email pada tabel employes untuk mengetahui email employes
+
+
+dim_offices
+mengambil kode pada tabel offices untuk mengetahui kode dari office
+mengambil kota pada tabel offices untuk mengetahui kota dari office
+mengambil phone (telepon) pada tabel offices untuk mengetahui nomer telepon 
+
+
+dim_produks
+mengambil kode pada tabel produks untuk mengetahui kode dari produk
+mengambil nama pada tabel produks untuk mnegetahui dari nama produk
+mengambil harga pada tabel produks untuk mengetahui harga dari produk
+
+
+fakta_retail
+mengambil sk_produks dari tabel dim_produks, dan membuat querinya agar dapat diakses pada tabel dim_produks
+mengambil sk_ dari temployes abel dim_employes, dan membuat querinya agar dapat diakses pada tabel dim_employes
+mengambil sk_offices dari tabel dim_offices, dan membuat querinya agar dapat diakses pada tabel dim_offices
